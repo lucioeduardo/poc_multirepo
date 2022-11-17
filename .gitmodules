@@ -1,0 +1,24 @@
+[submodule "poc_multirepo_base_app"]
+	path = poc_multirepo_base_app
+	url = https://github.com/lucioeduardo/poc_multirepo_base_app
+[submodule "poc_multirepo_microapp_splash"]
+	path = poc_multirepo_microapp_splash
+	url = https://github.com/lucioeduardo/poc_multirepo_microapp_splash
+[submodule "poc_multirepo_microapp_login"]
+	path = poc_multirepo_microapp_login
+	url = https://github.com/lucioeduardo/poc_multirepo_microapp_login
+[submodule "poc_multirepo_microapp_home"]
+	path = poc_multirepo_microapp_home
+	url = https://github.com/lucioeduardo/poc_multirepo_microapp_home
+[submodule "poc_multirepo_common_validation"]
+	path = poc_multirepo_common_validation
+	url = https://github.com/lucioeduardo/poc_multirepo_common_validation
+[submodule "poc_multirepo_common_design_system"]
+	path = poc_multirepo_common_design_system
+	url = https://github.com/lucioeduardo/poc_multirepo_common_design_system
+[submodule "poc_multirepo_common_dependencies"]
+	path = poc_multirepo_common_dependencies
+	url = https://github.com/lucioeduardo/poc_multirepo_common_dependencies
+[submodule "poc_multirepo_core"]
+	path = poc_multirepo_core
+	url = https://github.com/lucioeduardo/poc_multirepo_core
